@@ -1,5 +1,9 @@
 {
   "name": "binary-search-tree",
   "version": "0.0.1",
-  "type": "module"
+  "type": "module",
+  "main": "./bst.js",
+  "scripts": {
+    "test": "node ./test.js"
+  }
 }
